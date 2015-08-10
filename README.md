@@ -15,3 +15,5 @@ Last but not least:
 
 A class on GitHub!
 
+(How to make it accessible for teens, if adults find it inscrutable!)
+
